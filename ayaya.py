@@ -13,7 +13,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content == "cookie":
+    if message.content.startswith == "cookie":
         await client.send_message(message.channel, ":cookie:")
 
 client.run("NTExMjYwODQwNjgzNTAzNjE2.DspB7Q.ygmroqzlXwW-0R0WjyKmbE6gEak")
