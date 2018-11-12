@@ -13,7 +13,9 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content.startswith("!cookie"):
+    if ("cookie" in message.content) and not (message.author.top_role.name == "@everyone"):
+        await client.send_message(message.channel, message.author.top_role.name)
+        await client.send_message(message.channel, "Cookie!")
         await client.send_message(message.channel, ":cookie:")
 
 
