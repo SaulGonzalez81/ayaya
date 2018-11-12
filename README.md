@@ -6,4 +6,4 @@ Ayaya will say, "Here, (username), have a cookie!" and will send a cookie emoji 
 
 It serves no other purpose.
 
-Team Members: Aaron Chen, Raul Gonzalez, Aaron Ycu, Ken Lee
+Team Members: Aaron Chen, Saul Gonzalez, Aaron Ycu, Ken Lee
