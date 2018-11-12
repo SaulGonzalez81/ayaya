@@ -5,3 +5,5 @@ This bot has a single purpose: to give cookies to any one who asks for one. All 
 Ayaya will say, "Here, (username), have a cookie!" and will send a cookie emoji after it.
 
 It serves no other purpose.
+
+Team Members: Aaron Chen, Saul Rodriguez, Aaron Ycu, Ken Lee
